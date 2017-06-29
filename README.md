@@ -35,7 +35,7 @@ Until there's a more permanent solution, I've written a teeny Chrome plugin to d
 5. Select the root folder
 6. Once installed, make sure the plugin is enabled and allowed to run in incognito mode.
 
-~[](http://dropbox.jeremyricketts.com.s3.amazonaws.com/steps.png)
+![](http://dropbox.jeremyricketts.com.s3.amazonaws.com/steps.png)
 
 ## Modification:
 
