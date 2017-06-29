@@ -10,7 +10,7 @@ You can tell on websites with solid, bright colors that something is wrong. I no
 
 ## Issue 2: Safari is rendering a different, more muted color.
 
-Clearly, Apply agrees that the colors are garish because Safari is not rendering the colors accurately (as shown above). It's rendering more palatable, muted tones we're used to seeing for those colors.
+Clearly, Apple agrees that the colors are garish because Safari is not rendering the colors accurately (as shown above). It's rendering more palatable, muted tones we're used to seeing for those colors.
 
 ## A workaround (for Chrome at least):
 
@@ -41,6 +41,6 @@ Until there's a more permanent solution, I've written a teeny Chrome plugin to d
 
 Look, it's a CSS file. It loads one line of CSS for any web page you visit in Chrome:
 
-`filter: grayscale(14%) brightness(105%);`
+`filter: grayscale(15%);`
 
 That's what I've found works best, but feel free to experiment.

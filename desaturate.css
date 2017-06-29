@@ -1,5 +1,5 @@
 html {
-  filter: grayscale(14%) brightness(105%);
-  // filter: grayscale(15%);
-  // filter: grayscale(15%) brightness(95%);
+  filter: grayscale(15%);
+  // You can also try adjusting the brightness if necessary:
+  // filter: grayscale(14%) brightness(105%);
 }
