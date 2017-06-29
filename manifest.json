@@ -1,0 +1,19 @@
+{
+  "name": "Desaturate",
+  "description": "Tones down the color saturation in Chrome so that it looks more like Safari.",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "content_scripts": [
+     {
+        "matches":    [
+            "https://*/*",
+            "http://*/*"
+        ],
+        "css": ["desaturate.css"]
+     }
+  ],
+  "manifest_version": 2
+}
